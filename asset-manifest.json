@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/olasope/static/css/main.33b426db.css",
+    "main.js": "/olasope/static/js/main.314acda7.js",
+    "static/media/centa.jpg": "/olasope/static/media/centa.a4064c95055764b2f4e4.jpg",
+    "static/media/resume.pdf": "/olasope/static/media/resume.a0bd874d44998392273a.pdf",
+    "static/media/mypic.png": "/olasope/static/media/mypic.528ecfa65eb15739b2f7.png",
+    "static/media/tefy.png": "/olasope/static/media/tefy.8681efa3a889005e2533.png",
+    "static/media/glassesimoji.png": "/olasope/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/evodia.png": "/olasope/static/media/evodia.63d0cdeb6a1041e71e3b.png",
+    "static/media/thumbup.png": "/olasope/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/olasope/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/olasope/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/olasope/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/olasope/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/olasope/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/olasope/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/olasope/index.html",
+    "main.33b426db.css.map": "/olasope/static/css/main.33b426db.css.map",
+    "main.314acda7.js.map": "/olasope/static/js/main.314acda7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b426db.css",
+    "static/js/main.314acda7.js"
+  ]
+}
